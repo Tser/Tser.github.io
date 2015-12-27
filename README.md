@@ -11,3 +11,7 @@ Tser的博客
 >[百度](https://www.baidu.com) or
 >[tser's blo](http://tser.github.io "tser's博客") or 
 >[yahoo](http://search.yahoo.com/  "Yahoo Search")
+
+##Demo1
+>直接连接
+<http://www.google.com "Google">
