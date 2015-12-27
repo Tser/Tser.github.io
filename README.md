@@ -8,12 +8,6 @@ Tser的博客
 
 ##Demo
 >a标签的的实现<br>
->[百度](https://www.baidu.com)or
-
->[tser's blo][1]
-
->[1]:http://tser.github.io "tser's博客"
-
->[yahoo][]
-
->[yahoo]:  http://search.yahoo.com/  "Yahoo Search"
+>[百度](https://www.baidu.com) or
+>[tser's blo](http://tser.github.io "tser's博客") or 
+>[yahoo](http://search.yahoo.com/  "Yahoo Search")
